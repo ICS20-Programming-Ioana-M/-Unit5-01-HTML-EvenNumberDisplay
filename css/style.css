@@ -1,0 +1,13 @@
+body {
+  background-color: palegreen;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  background-color: mediumseagreen;
+}
+
+.mar {
+  margin-left: 50px; 
+}
